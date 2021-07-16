@@ -1841,8 +1841,8 @@ margin: 30px 0;
     background: #fff!important;
     color: #333!important;
     box-shadow: 1px 1px 3px rgb(0 0 0 / 10%)!important;
-    padding-bottom: 0;
-    padding-bottom: 0!important;
+    /* padding-bottom: 0;
+    padding-bottom: 0!important; */
 }
 .about-pg .top-header a,
 .main-navbar .nav-item .nav-link{
