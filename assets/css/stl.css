@@ -1865,3 +1865,7 @@ margin: 30px 0;
 *{
     background-size: 100% 100%!important;
 }
+
+.main-slider {
+    margin-top: 78px;
+}
